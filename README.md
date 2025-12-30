@@ -5,7 +5,7 @@ This repository is a lightweight, reproducible demo of a nonstationary choice-mo
 1) **Synthetic simulation** of a tone-guided rule-learning / reversal environment, and  
 2) **Sliding-window parameter estimation** (e.g., \alpha, \beta, and biases) with visualization around reversal.
 
-> Note: GitHub renders `.ipynb` notebooks as **static HTML** (viewable, but not executable). To run the notebook in the browser, use Binder (instructions below). :contentReference[oaicite:1]{index=1}
+> Note: GitHub renders `.ipynb` notebooks as **static HTML** (viewable, but not executable). To run the notebook in the browser, use Binder (instructions below). 
 
 ---
 
