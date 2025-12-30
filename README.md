@@ -15,10 +15,10 @@ This repository is a lightweight, reproducible demo of a nonstationary choice-mo
 - Demonstrates how the synthetic environment generates **states, actions, rewards**, and how behavior changes with parameters.
 - Includes plots like rolling accuracy and rolling action frequencies.
 
-### 2) Parameter estimation + reversal-aligned visualization
+### 2) Parameter estimation + reversal-aligned visualization using real mouse data
 - Demonstrates how estimated parameters evolve across time windows.
-- Includes “reversal neighborhood” overlays (all mice on the same axes), aligned so the **first reversal marker** is at **rel_idx = 0**.
-
+- Includes “reversal neighbourhood” overlays (all mice on the same axes), aligned so the **first reversal marker** is at **rel_idx = 0**.
+- Note: Mouse data is confidential and thus not provided.
 ---
 
 ## Repository structure (suggested)
