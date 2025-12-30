@@ -22,11 +22,8 @@ This repository is a lightweight, reproducible demo of a nonstationary choice-mo
 ---
 
 ## Repository structure (suggested)
-- `src/`  
-  - Core Python modules (model + estimation utilities)
-- `notebooks/`  
-  - `demo.ipynb` — the main demo notebook
-- `requirements.txt` — Python dependencies
+- RLModelLatest_BiasInBoltxFact.py: Core Python modules (model + estimation utilities) using reinforcement learning - Q-Learning
+- `demo1.ipynb` — the main demo notebook
 
 ---
 
@@ -38,8 +35,5 @@ python -m venv .venv
 source .venv/bin/activate  # (macOS/Linux)
 # .venv\Scripts\activate   # (Windows)
 
-# 2) Install dependencies
-pip install -r requirements.txt
-
-# 3) Run the notebook
+# 2) Run the notebook
 jupyter notebook
