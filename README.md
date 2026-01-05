@@ -25,14 +25,14 @@ This repository is a lightweight, reproducible demo of a **synthetic** nonstatio
 - A reversal is armed when recent performance reaches **≥19 correct in the last 20 trials**, then executed **250 trials later** (countdown).  
 - Plots: rolling accuracy + rolling action frequencies; and reversal-aligned overlays (rel_t = 0 at the reversal marker).
 
-### 2) Dynamic-parameter simulation (random-walk β(t) and biases)
-- Same task, but **β(t)** and action biases **b_L(t), b_R(t), b_N(t)** evolve over time via random walks.
+### 2) Dynamic-parameter simulation (random-walk $\beta(t)$ and biases)
+- Same task, but **$\beta(t)$** and action biases **$b_L(t)$, $b_R(t)$, $b_N(t)$** evolve over time via random walks.
 - Supports **multiple serial reversals**, and the plotting utilities can draw **all reversal flip times** (not just the first).
 
 ### 3) Analysis + plotting utilities
-- Rolling empirical choice probabilities P̂(L), P̂(R), P̂(N)
-- (Optional) policy probabilities π(L), π(R), π(N) if logged
-- Parameter trajectories (β(t), biases)
+- Rolling empirical choice probabilities $\hat{P}(L)$, $\hat{P}(R)$, $\hat{P}(N)$
+- (Optional) policy probabilities $\pi(L)$, $\pi(R)$, $\pi(N)$ if logged
+- Parameter trajectories ($\beta(t)$, biases)
 - Reversal-aligned windows and reversal markers (first vs all flips)
 
 ---
