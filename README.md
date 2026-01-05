@@ -23,7 +23,7 @@ This repository is a lightweight, reproducible demo of a **synthetic** nonstatio
 ### 1) Fixed-parameter simulation (Q-learning + softmax)
 - Generates **states (tones), actions (L/R/N), rewards**, and **reversal events**.
 - A reversal is armed when recent performance reaches **≥19 correct in the last 20 trials**, then executed **250 trials later** (countdown).  
-- Plots: rolling accuracy + rolling action frequencies; and reversal-aligned overlays (rel_t = 0 at the reversal marker).
+- Plots: rolling accuracy + rolling action frequencies; and reversal-aligned overlays ($rel_{t}$ = 0 at the reversal marker).
 
 ### 2) Dynamic-parameter simulation (random-walk $\beta(t)$ and biases)
 - Same task, but **$\beta(t)$** and action biases **$b_L(t)$, $b_R(t)$, $b_N(t)$** evolve over time via random walks.
