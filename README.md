@@ -31,7 +31,6 @@ This repository is a lightweight, reproducible demo of a **synthetic** nonstatio
 
 ### 3) Analysis + plotting utilities
 - Rolling empirical choice probabilities $\hat{P}(L)$, $\hat{P}(R)$, $\hat{P}(N)$
-- (Optional) policy probabilities $\pi(L)$, $\pi(R)$, $\pi(N)$ if logged
 - Parameter trajectories ($\beta(t)$, biases)
 - Reversal-aligned windows and reversal markers (first vs all flips)
 
