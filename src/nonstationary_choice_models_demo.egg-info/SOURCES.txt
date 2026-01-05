@@ -1,0 +1,8 @@
+pyproject.toml
+src/non_stationary_demo/__init__.py
+src/non_stationary_demo/analysis.py
+src/non_stationary_demo/simulate.py
+src/nonstationary_choice_models_demo.egg-info/PKG-INFO
+src/nonstationary_choice_models_demo.egg-info/SOURCES.txt
+src/nonstationary_choice_models_demo.egg-info/dependency_links.txt
+src/nonstationary_choice_models_demo.egg-info/top_level.txt
