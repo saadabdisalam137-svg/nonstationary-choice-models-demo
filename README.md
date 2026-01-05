@@ -9,12 +9,12 @@ This repository is a lightweight, reproducible demo of a **synthetic** nonstatio
 **No experimental mouse data** is included.  
 **No model-parameter estimation** is performed in this repo (simulation + plotting only).
 
-> GitHub renders `.ipynb` notebooks as **static HTML** (viewable, not executable). :contentReference[oaicite:1]{index=1}  
-> To run in the browser, use Binder, or run locally. :contentReference[oaicite:2]{index=2}
+> GitHub renders `.ipynb` notebooks as **static HTML** (viewable, not executable). 
+> To run in the browser, use Binder, or run locally.
 
 <!-- Optional: add a Binder badge once you set it up -->
 <!-- [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<YOUR_GITHUB_USER>/<YOUR_REPO>/<BRANCH>?filepath=notebooks/demo1.ipynb) -->
-<!-- Binder URL patterns like ?filepath=... are commonly used to open a specific notebook. :contentReference[oaicite:3]{index=3} -->
+<!-- Binder URL patterns like ?filepath=... are commonly used to open a specific notebook.-->
 
 ---
 
